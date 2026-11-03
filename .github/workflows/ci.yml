@@ -11,7 +11,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Week 1: add your own check here (see challenge C4).
+      - name: Check author information
+        run: |
+          if grep -q "TODO-AUTHOR" README.md; then
+            echo "README.md still contains TODO-AUTHOR"
+            exit 1
+          fi
 
       # Week 2+: set up your runtime and build. Uncomment and adapt ONE of these:
       #
