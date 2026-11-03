@@ -6,8 +6,8 @@
 
 | Name | GitHub | Main responsibilities |
 |------|--------|-----------------------|
-| Matic Kontelj | @… | … |
-| TODO-AUTHOR | @… | … |
+| Matic Kontelj | @matickontelj… | Izdelava projekta |
+
 
 <!-- Lab repository: one row. Project repository: both team members. -->
 
