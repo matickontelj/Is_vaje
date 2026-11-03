@@ -15,7 +15,7 @@
 
 | Part | URL |
 |------|-----|
-| Web app | … |
+| Web app |…|
 | API (+ docs) | … |
 | Health check | … |
 | Mobile app | build instructions below / APK in Releases |
