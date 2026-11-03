@@ -1,0 +1,15 @@
+
+### GET zahteva
+GET https://httpbin.org/get
+Accept: application/json
+
+### POST zahteva
+POST https://httpbin.org/post
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Recipe Box",
+  "description": "Application for saving recipes"
+}
+
